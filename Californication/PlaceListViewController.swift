@@ -26,7 +26,7 @@ import Mixpanel
 import SpotSense
 import CoreLocation
 import UserNotifications // required if sending notifications with SpotSense
-let spotsense = SpotSense(clientID: "X7eezmXt0Xoae5ZxFirmo822uymsslt3", clientSecret: "D3xVO9MJOD8hiIQARpWoipOkg04-EfO9NnprtYFlTrjuYWE7_9WkNoZeqssBHvH2")
+let spotsense = SpotSense(clientID: "Client ID", clientSecret: "Client Secret")
 
 // MARK: Constants
 

@@ -35,7 +35,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
   // MARK: - UIApplicationDelegate
 
   func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-    Mixpanel.initialize(token: "f47c0a96ca0f4dfc1e81fd9fff979c7a")
+    Mixpanel.initialize(token: "Add token here")
   //FirebaseApp.configure()
     guard let window = window else {
         fatalError("Could not instantiate window")
