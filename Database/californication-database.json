@@ -1,0 +1,92 @@
+{
+  "places" : {
+    "Hayden-butte" : {
+      "detail_description" : "As commonly known as A mountain. Parking is available in a bog lot. Moderate stiff climb. The end part of the climb has got wooden and concrete steps. The view of Tempe from top is amazing. Planes just fly over your head and you can see the airport. Sunset is one of the best time to be there.",
+      "images" : {
+        "large" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/a-mountain.jpeg?alt=media&token=bbf198a6-53f8-41f8-8b11-af9952654da5",
+        "medium" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/a-mountain.jpeg?alt=media&token=bbf198a6-53f8-41f8-8b11-af9952654da5",
+        "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/a-mountain.jpeg?alt=media&token=bbf198a6-53f8-41f8-8b11-af9952654da5"
+      },
+      "name" : "Hayden Butte",
+      "place_id" : "ChIJB5DfPycJK4cREvYeetqVuao",
+      "summary" : "Park & popular hiking area, known for a 60-ft. letter 'A' representing Arizona State University."
+    },
+    "sun-devil-football-stadium" : {
+      "detail_description" : "Sun Devil Stadium, home to the Pac-10 champion football team since 1958, holds 75,000 people. Sun Devil Stadium was the original home of the annual Tostitos Fiesta Bowl and hosted the 2008 Insight Bowl and the 1996 NFL Super Bowl. Constructed between two mountain buttes, the stadium was literally carved from the desert. The stadium has been expanded and renovated four times. A stadium addition in 1992 provided Sun Devil Stadium with a more durable playing surface, improved patron sight lines in the lower seating levels, expanded the sideline area for player safety and improved access for television and print photographers.",
+      "images" : {
+        "large" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/sun-devil-stadium.jpeg?alt=media&token=5b987b60-cc2d-4af3-bad8-53f9cb72bd4b",
+        "medium" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/sun-devil-stadium.jpeg?alt=media&token=5b987b60-cc2d-4af3-bad8-53f9cb72bd4b",
+        "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/sun-devil-stadium.jpeg?alt=media&token=5b987b60-cc2d-4af3-bad8-53f9cb72bd4b"
+      },
+      "name" : "Sun Devil Stadium",
+      "place_id" : "ChIJ0RwU--MIK4cRIiUjb2Qdiw0",
+      "summary" : "Sun Devil Stadium is an outdoor football stadium on the campus of Arizona State University."
+    },
+    "Tempe-beach-park" : {
+      "detail_description" : "Enjoy an afternoon out around the beautiful Tempe Town Lake. Here you can have a picnic, take a leisurely bike ride (rent a bike at The Bicycle Cellar), or rent a boat or paddle board.  Keep a look out for all the great festivals, concerts, and runs that take place at the Lake.",
+      "images" : {
+        "large" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/tempe-beach-park.jpg?alt=media&token=d18188d1-2b83-4a58-bac5-70967a772846",
+        "medium" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/tempe-beach-park.jpg?alt=media&token=d18188d1-2b83-4a58-bac5-70967a772846",
+        "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/tempe-beach-park.jpg?alt=media&token=d18188d1-2b83-4a58-bac5-70967a772846"
+      },
+      "name" : "Tempe Beach Park",
+      "place_id" : "ChIJ3XPvtSgJK4cR3bGBIH3AFwU",
+      "summary" : "Local landmark features a splash playground, boating, a baseball diamond & other athletic fields."
+    },
+    "hayden-flour-mill" : {
+      "detail_description" : "Hayden Flour Mill is a relic of our agricultural past, when Tempe was a small town surrounded by miles of farmland and anchored, economically, by the processing and marketing of grain, cotton, fruit, vegetable, and dairy products. Like the creamery complex on East 8th Street, Hayden Flour Mill ranked among the prominent agricultural industries in the Valley. It purchased most of the grain grown in Central Arizona and milled many of Arizona's best known flours: Sifted Snow, Arizona Rose, and Family Kitchen among them.",
+      "images" : {
+        "large" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/flour_mill.jpg?alt=media&token=60b9adda-c4bc-4e1c-998d-e26df60bbe03",
+        "medium" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/flour_mill.jpg?alt=media&token=60b9adda-c4bc-4e1c-998d-e26df60bbe03",
+        "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/flour_mill.jpg?alt=media&token=60b9adda-c4bc-4e1c-998d-e26df60bbe03"
+      },
+      "name" : "Hayden Flour Mill",
+      "place_id" : "ChIJ7YwFMiYJK4cR1R3P66AwJ-c",
+      "summary" : "Historical landmark"
+    },
+    "gammage-auditorium" : {
+      "detail_description" : "The Grady Gammage Memorial Auditorium is a multipurpose performing arts center in Tempe, Arizona within the main campus of Arizona State University. The auditorium, which bears the name of former ASU President Grady Gammage, is considered to be one of the last public commissions of architect Frank Lloyd Wright.",
+      "images" : {
+        "large" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/gammage.jpg?alt=media&token=d454ce41-c1d9-4cac-bf95-8eb3ad2620a1",
+        "medium" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/gammage.jpg?alt=media&token=d454ce41-c1d9-4cac-bf95-8eb3ad2620a1",
+        "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/gammage.jpg?alt=media&token=d454ce41-c1d9-4cac-bf95-8eb3ad2620a1"
+      },
+      "name" : "Gammage Auditorium",
+      "place_id" : "ChIJ--U-6toIK4cRUhr2VRSqBXg",
+      "summary" : "Performing arts center"
+    },
+    "four-peaks-brewery" : {
+      "detail_description" : "Four Peaks Brewing Co. is an Arizona brewery and restaurant. The original and main location is in an old creamery and warehouse on 8th Street in Tempe, Arizona, about one-half mile (800 m) east of the campus of Arizona State University.",
+      "images" : {
+        "large" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/FourPeaksTempe.jpg?alt=media&token=c8cd9c63-ed79-49b0-a1d7-de599753fe51",
+        "medium" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/FourPeaksTempe.jpg?alt=media&token=c8cd9c63-ed79-49b0-a1d7-de599753fe51",
+        "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/FourPeaksTempe.jpg?alt=media&token=c8cd9c63-ed79-49b0-a1d7-de599753fe51"
+      },
+      "name" : "Four Peaks Brewery",
+      "place_id" : "ChIJY9M3BPAIK4cRkSOWsfkfkCQ",
+      "summary" : "Quality bar and restaurant."
+    },
+    "mill-ave" : {
+      "detail_description" : "The weekend is just around the corner, and you’re thinking…What should I do this weekend? Mill Avenue may just be the ticket to a fun-filled day. There are, of course, lots and lots of delicious restaurants to choose from, and unique shopping spots too. But there are so many activities such as hiking, biking, and arts and culture to experience too — perfect for a weekend of fun. Here’s a list of some of my favorite ways to spend a day in Downtown Tempe",
+      "images" : {
+        "large" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/mill_ave.jpg?alt=media&token=39800699-3636-426d-9f9b-e7dc489603aa",
+        "medium" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/mill_ave.jpg?alt=media&token=39800699-3636-426d-9f9b-e7dc489603aa",
+        "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/mill_ave.jpg?alt=media&token=39800699-3636-426d-9f9b-e7dc489603aa"
+      },
+      "name" : "Mill Ave",
+      "place_id" : "ChIJhWoaddcIK4cRSYty6VIWvkY",
+      "summary" : "Entertainment district"
+    },
+    "old-main" : {
+      "detail_description" : "Old Main is the second building on the campus of Arizona State University, in Tempe, Arizona. It was built in 1898, 14 years before Arizona became a state. In 1985, Old Main was added to the National Register of Historic Places.",
+      "images" : {
+        "large" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/Old_main.jpg?alt=media&token=b74a93fd-4be7-4707-9e0f-b6e317454c75",
+        "medium" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/Old_main.jpg?alt=media&token=b74a93fd-4be7-4707-9e0f-b6e317454c75",
+        "thumbnail" : "https://firebasestorage.googleapis.com/v0/b/open-tempe.appspot.com/o/Old_main.jpg?alt=media&token=b74a93fd-4be7-4707-9e0f-b6e317454c75"
+      },
+      "name" : "Old Main",
+      "place_id" : "ChIJh3-Lc9wIK4cR4UV8QO_X2mg",
+      "summary" : "Conference center"
+    }
+  }
+}
