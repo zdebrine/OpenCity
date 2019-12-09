@@ -7,7 +7,7 @@
 //
 
 import Foundation
-import FirebaseAuth
+import Firebase
 
 enum Result<Value, Error: Swift.Error> {
   case success(Value)

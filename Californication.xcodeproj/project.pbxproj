@@ -7,11 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		00F3BA2DA2AA9FF2608FBF3F /* Pods_CalifornicationTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 10B233075FF050C3802172C4 /* Pods_CalifornicationTests.framework */; };
+		0BCF81130F61C6744D4A5F30 /* Pods_CalifornicationUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 25AF037D8D6DC2B9E18C89FE /* Pods_CalifornicationUITests.framework */; };
 		2C4221CF20FE9CA6003FBCB0 /* UIViewController+PreferredStatusBarStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C4221CE20FE9CA6003FBCB0 /* UIViewController+PreferredStatusBarStyle.swift */; };
 		2CFEE81F20FE7F0400408B47 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2CFEE81E20FE7F0400408B47 /* GoogleService-Info.plist */; };
 		2CFEE82120FE872600408B47 /* FirebaseAuthManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFEE82020FE872600408B47 /* FirebaseAuthManager.swift */; };
 		2CFEE82320FE8C1600408B47 /* FirebaseAuthManagerImpl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CFEE82220FE8C1600408B47 /* FirebaseAuthManagerImpl.swift */; };
-		33D4516DC9A3E408C806F94E /* Pods_CalifornicationTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A275518BE5BC34FDFB39C4AB /* Pods_CalifornicationTests.framework */; };
 		750643011D3E43D500E3D691 /* PlaceCacheManagerImpl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 750643001D3E43D500E3D691 /* PlaceCacheManagerImpl.swift */; };
 		7511026B1D3F003D000385A3 /* PlaceImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7511026A1D3F003D000385A3 /* PlaceImage.swift */; };
 		7524B9731D41DFFB00C540A3 /* ImageDownloadManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7524B9721D41DFFB00C540A3 /* ImageDownloadManager.swift */; };
@@ -48,8 +49,7 @@
 		75F6D8591D3DB981000D2932 /* PlaceDirector.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F6D8581D3DB981000D2932 /* PlaceDirector.swift */; };
 		75F6D85B1D3DBF19000D2932 /* GCDUtils.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F6D85A1D3DBF19000D2932 /* GCDUtils.swift */; };
 		75F6D85E1D3DEA52000D2932 /* PlaceTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75F6D85D1D3DEA52000D2932 /* PlaceTableViewCell.swift */; };
-		80F33B4F110DA096B734246C /* Pods_CalifornicationUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 009E116CB24B6130208BAC6E /* Pods_CalifornicationUITests.framework */; };
-		C63AA9EE9EC76D929CD962DB /* Pods_Californication.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F671F0799D0C27EC69C63FEB /* Pods_Californication.framework */; };
+		EB48A31B9F009F55FF645752 /* Pods_Californication.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C58071A5D6DC006810FFC06B /* Pods_Californication.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -70,9 +70,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		009E116CB24B6130208BAC6E /* Pods_CalifornicationUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CalifornicationUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0A4CF11D19B357B52405D12A /* Pods-CalifornicationUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CalifornicationUITests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-CalifornicationUITests/Pods-CalifornicationUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		10B233075FF050C3802172C4 /* Pods_CalifornicationTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CalifornicationTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		25AD54A66003CF6EEF4CDAEB /* Pods-CalifornicationTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CalifornicationTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CalifornicationTests/Pods-CalifornicationTests.release.xcconfig"; sourceTree = "<group>"; };
+		25AF037D8D6DC2B9E18C89FE /* Pods_CalifornicationUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CalifornicationUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2C4221CE20FE9CA6003FBCB0 /* UIViewController+PreferredStatusBarStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIViewController+PreferredStatusBarStyle.swift"; sourceTree = "<group>"; };
 		2CFEE81E20FE7F0400408B47 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		2CFEE82020FE872600408B47 /* FirebaseAuthManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirebaseAuthManager.swift; sourceTree = "<group>"; };
@@ -121,10 +122,9 @@
 		75F6D85A1D3DBF19000D2932 /* GCDUtils.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GCDUtils.swift; sourceTree = "<group>"; };
 		75F6D85D1D3DEA52000D2932 /* PlaceTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceTableViewCell.swift; sourceTree = "<group>"; };
 		843AF86846F1E9AD4543490C /* Pods-Californication.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Californication.release.xcconfig"; path = "Pods/Target Support Files/Pods-Californication/Pods-Californication.release.xcconfig"; sourceTree = "<group>"; };
-		A275518BE5BC34FDFB39C4AB /* Pods_CalifornicationTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CalifornicationTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1072CE40450049DEBD6D90B /* Pods-Californication.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Californication.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Californication/Pods-Californication.debug.xcconfig"; sourceTree = "<group>"; };
+		C58071A5D6DC006810FFC06B /* Pods_Californication.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Californication.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F4CD1494DFFDA972AA2B42A5 /* Pods-CalifornicationUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CalifornicationUITests.release.xcconfig"; path = "Pods/Target Support Files/Pods-CalifornicationUITests/Pods-CalifornicationUITests.release.xcconfig"; sourceTree = "<group>"; };
-		F671F0799D0C27EC69C63FEB /* Pods_Californication.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Californication.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FBF1360B2228842100F73B89 /* Location.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Location.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -133,7 +133,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C63AA9EE9EC76D929CD962DB /* Pods_Californication.framework in Frameworks */,
+				EB48A31B9F009F55FF645752 /* Pods_Californication.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,7 +141,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				33D4516DC9A3E408C806F94E /* Pods_CalifornicationTests.framework in Frameworks */,
+				00F3BA2DA2AA9FF2608FBF3F /* Pods_CalifornicationTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,7 +149,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				80F33B4F110DA096B734246C /* Pods_CalifornicationUITests.framework in Frameworks */,
+				0BCF81130F61C6744D4A5F30 /* Pods_CalifornicationUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,9 +176,9 @@
 		5DEB6B2D50011B000ABFA368 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				F671F0799D0C27EC69C63FEB /* Pods_Californication.framework */,
-				A275518BE5BC34FDFB39C4AB /* Pods_CalifornicationTests.framework */,
-				009E116CB24B6130208BAC6E /* Pods_CalifornicationUITests.framework */,
+				C58071A5D6DC006810FFC06B /* Pods_Californication.framework */,
+				10B233075FF050C3802172C4 /* Pods_CalifornicationTests.framework */,
+				25AF037D8D6DC2B9E18C89FE /* Pods_CalifornicationUITests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -421,8 +421,8 @@
 				754CE16B1D3C69D0008CFE62 /* Sources */,
 				754CE16C1D3C69D0008CFE62 /* Frameworks */,
 				754CE16D1D3C69D0008CFE62 /* Resources */,
-				49D1B3F9875FA7724DF567B8 /* [CP] Embed Pods Frameworks */,
 				2E5B29FAB87DB47F6A0D09F1 /* [CP] Copy Pods Resources */,
+				7114CAD869425C1617685B4E /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -558,7 +558,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Californication/Pods-Californication-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-Californication/Pods-Californication-resources.sh",
 				"${PODS_CONFIGURATION_BUILD_DIR}/FirebaseInAppMessagingDisplay/InAppMessagingDisplayResources.bundle",
 				"${PODS_ROOT}/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Resources/GoogleMaps.bundle",
 				"${PODS_ROOT}/GooglePlaces/Frameworks/GooglePlaces.framework/Resources/GooglePlaces.bundle",
@@ -571,47 +571,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Californication/Pods-Californication-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		49D1B3F9875FA7724DF567B8 /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-				"${SRCROOT}/Pods/Target Support Files/Pods-Californication/Pods-Californication-frameworks.sh",
-				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
-				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
-				"${BUILT_PRODUCTS_DIR}/AwesomeCache/AwesomeCache.framework",
-				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
-				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
-				"${BUILT_PRODUCTS_DIR}/HCSStarRatingView/HCSStarRatingView.framework",
-				"${BUILT_PRODUCTS_DIR}/JWTDecode/JWTDecode.framework",
-				"${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework",
-				"${BUILT_PRODUCTS_DIR}/Mixpanel-swift/Mixpanel.framework",
-				"${BUILT_PRODUCTS_DIR}/SpotSense/SpotSense.framework",
-				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
-				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AwesomeCache.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/HCSStarRatingView.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JWTDecode.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MBProgressHUD.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Mixpanel.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SpotSense.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Californication/Pods-Californication-frameworks.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Californication/Pods-Californication-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		53C32EBDEEB483097A347C3A /* [CP] Check Pods Manifest.lock */ = {
@@ -630,6 +590,48 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		7114CAD869425C1617685B4E /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-Californication/Pods-Californication-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework",
+				"${BUILT_PRODUCTS_DIR}/AlamofireImage/AlamofireImage.framework",
+				"${BUILT_PRODUCTS_DIR}/Analytics/Analytics.framework",
+				"${BUILT_PRODUCTS_DIR}/AwesomeCache/AwesomeCache.framework",
+				"${BUILT_PRODUCTS_DIR}/GTMSessionFetcher/GTMSessionFetcher.framework",
+				"${BUILT_PRODUCTS_DIR}/GoogleUtilities/GoogleUtilities.framework",
+				"${BUILT_PRODUCTS_DIR}/HCSStarRatingView/HCSStarRatingView.framework",
+				"${BUILT_PRODUCTS_DIR}/JWTDecode/JWTDecode.framework",
+				"${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework",
+				"${BUILT_PRODUCTS_DIR}/Mixpanel-swift/Mixpanel.framework",
+				"${BUILT_PRODUCTS_DIR}/SpotSense/SpotSense.framework",
+				"${BUILT_PRODUCTS_DIR}/leveldb-library/leveldb.framework",
+				"${BUILT_PRODUCTS_DIR}/nanopb/nanopb.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Alamofire.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AlamofireImage.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Analytics.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/AwesomeCache.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GTMSessionFetcher.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/GoogleUtilities.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/HCSStarRatingView.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/JWTDecode.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MBProgressHUD.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/Mixpanel.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SpotSense.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/leveldb.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/nanopb.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-Californication/Pods-Californication-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		EC18F76D4EF0D6F81796C256 /* [CP] Check Pods Manifest.lock */ = {

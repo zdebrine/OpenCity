@@ -19,7 +19,7 @@ target 'Californication' do
   pod 'AlamofireImage'
   pod 'AwesomeCache'
   pod 'GooglePlaces'
-  pod 'SpotSense'
+  pod 'SpotSense', :git => 'https://github.com/spotsenseio/spotsenseSDK-ios.git'
   pod 'Mixpanel-swift'
   pod 'Analytics', '~> 3.0'
 

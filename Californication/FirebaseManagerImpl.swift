@@ -21,8 +21,8 @@
  */
 
 import Foundation
-import FirebaseDatabase
-import FirebaseAuth
+import Firebase
+import Firebase
 
 class FirebaseManagerImpl: FirebaseManager {
   

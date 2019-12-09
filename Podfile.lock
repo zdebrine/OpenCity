@@ -2,6 +2,7 @@ PODS:
   - Alamofire (4.8.1)
   - AlamofireImage (3.5.0):
     - Alamofire (~> 4.8)
+  - Analytics (3.7.0)
   - AwesomeCache (5.0)
   - Firebase (5.16.0):
     - Firebase/Core (= 5.16.0)
@@ -94,7 +95,7 @@ PODS:
     - GoogleUtilities/Logger
   - GTMSessionFetcher/Core (1.2.1)
   - HCSStarRatingView (1.5)
-  - JWTDecode (2.2.0)
+  - JWTDecode (2.4.0)
   - leveldb-library (1.20)
   - MBProgressHUD (1.1.0)
   - Mixpanel-swift (2.5.7):
@@ -105,12 +106,13 @@ PODS:
     - nanopb/encode (= 0.3.901)
   - nanopb/decode (0.3.901)
   - nanopb/encode (0.3.901)
-  - SpotSense (0.1.2):
+  - SpotSense (1.0.0):
     - Alamofire
     - JWTDecode
 
 DEPENDENCIES:
   - AlamofireImage
+  - Analytics (~> 3.0)
   - AwesomeCache
   - Firebase
   - Firebase/Analytics
@@ -124,12 +126,13 @@ DEPENDENCIES:
   - HCSStarRatingView
   - MBProgressHUD
   - Mixpanel-swift
-  - SpotSense
+  - SpotSense (from `https://github.com/spotsenseio/spotsenseSDK-ios.git`)
 
 SPEC REPOS:
-  https://github.com/cocoapods/specs.git:
+  https://github.com/CocoaPods/Specs.git:
     - Alamofire
     - AlamofireImage
+    - Analytics
     - AwesomeCache
     - Firebase
     - FirebaseAnalytics
@@ -152,11 +155,20 @@ SPEC REPOS:
     - MBProgressHUD
     - Mixpanel-swift
     - nanopb
-    - SpotSense
+
+EXTERNAL SOURCES:
+  SpotSense:
+    :git: https://github.com/spotsenseio/spotsenseSDK-ios.git
+
+CHECKOUT OPTIONS:
+  SpotSense:
+    :commit: dba2b790e98efb31a7f140cc3775c63e6e997c5d
+    :git: https://github.com/spotsenseio/spotsenseSDK-ios.git
 
 SPEC CHECKSUMS:
   Alamofire: 16ce2c353fb72865124ddae8a57c5942388f4f11
   AlamofireImage: 1aea346f4dda2f6c67622fa5a89fcbb80d79cc16
+  Analytics: 77fd5fb102a4a5eedafa2c2b0245ceb7b7c15e45
   AwesomeCache: d8906955242173357caa0be0214d5e77dec32cc5
   Firebase: 749a8ff4962f9d8c79dda1966de20f6f77583d67
   FirebaseAnalytics: d35d47c03c50c73c14a7fd31463c5775843e78a9
@@ -174,13 +186,13 @@ SPEC CHECKSUMS:
   GoogleUtilities: 111a012f4c3a29c9e7c954c082fafd6ee3c999c0
   GTMSessionFetcher: 32aeca0aa144acea523e1c8e053089dec2cb98ca
   HCSStarRatingView: 1d18f79654735514cd6f00e6d90e38cb6320dc31
-  JWTDecode: 85a405ab16d5473e99bd89ded1d535090ebd6a0e
+  JWTDecode: 0930fb517c27bac2daef7cabc13577b18fdee0da
   leveldb-library: 08cba283675b7ed2d99629a4bc5fd052cd2bb6a5
   MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
   Mixpanel-swift: d4de197db883e9dbba162fee6751db5e7766971b
   nanopb: 2901f78ea1b7b4015c860c2fdd1ea2fee1a18d48
-  SpotSense: b3c15ec201346d499d00b8dc24545c4fcfe99586
+  SpotSense: 20a20fa86584957c9073a533fc145b0b04eb6989
 
-PODFILE CHECKSUM: 87b981fce70929bac417cbe745e52448f1105826
+PODFILE CHECKSUM: 11812ed6d60f073ec9690476dd41d1bff7af72e8
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.8.4
