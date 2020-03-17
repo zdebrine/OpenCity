@@ -7,6 +7,7 @@ target 'Californication' do
 
   # Pods for Californication
   pod 'Firebase/Database'
+  pod 'Firebase/Messaging'
   pod 'Firebase/Core'
   pod 'Firebase/Storage'
   pod 'Firebase/Auth'
@@ -19,7 +20,7 @@ target 'Californication' do
   pod 'AlamofireImage'
   pod 'AwesomeCache'
   pod 'GooglePlaces'
-  pod 'SpotSense', :git => 'https://github.com/spotsenseio/spotsenseSDK-ios.git'
+  pod 'SpotSense', '~>1.0.1'
   pod 'Mixpanel-swift'
   pod 'Analytics', '~> 3.0'
 
